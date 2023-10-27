@@ -11,7 +11,7 @@ Skills: KOTLIN/XML
 - 💬 Ask me about Android Developer 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AppsDevMehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/themehedihasan/)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)' alt='github' height='40'>](https://github.com/AppsDevMehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/themehedihasan/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppsDevMehedi)](https://github.com/anuraghazra/github-readme-stats)
 
