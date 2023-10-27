@@ -1,7 +1,6 @@
-![Software Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
-
 ### Hi there 👋, I'm Mehedi Hasan
 #### Software Developer
+![Software Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
 
 Hi,I'm Mehedi Hasan, My qualification is Software Developer.I like to create creative Software.
 
@@ -18,10 +17,7 @@ Skills: KOTLIN/XML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMehedi&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AppsDevMehedi)  
-
 ![GitHub metrics](https://metrics.lecoq.io/AppsDevMehedi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AppsDevMehedi)  
 
-![Profile views](https://gpvc.arturio.dev/AppsDevMehedi)  
