@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Mehedi Hasan
-#### Software Develope
+#### Software Developer
 
 Hi,I'm Mehedi Hasan, My qualification is Software Developer.I like to create creative Software.
 
